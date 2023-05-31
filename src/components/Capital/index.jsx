@@ -5,7 +5,7 @@ function Capital () {
 
         <WrapperCapital>
             <h1>Capitais</h1>
-
+        
         </WrapperCapital>
     )
 }

@@ -1,0 +1,20 @@
+export const Colors = {
+    black: '#000',
+    white: '#FFF',
+    neutral: '#E5E5E5',
+    neutral2: '#F4F4F4',
+    gray: '#D1D1D1',
+    gray_25: '#8D8F9C',
+    gray_50: '#4E4545',
+    gray_75: '#4D4D4D',
+    green: '#29CC6A',
+    green_gradient: '#00E79F',
+    blue_gradient: '#00BCEE',
+    blue: '#17A1FA',
+    blue_25: '#02BEE3',
+    blue_50: '#7ADADD',
+    blue_75: '#0099FF',
+    red_25: '#FC5555',
+    yellow: '#F2C94C',
+};
+

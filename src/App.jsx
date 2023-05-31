@@ -10,7 +10,6 @@ function App() {
               <h1>Previsão do tempo</h1>
           </div>
           <InputCity />
-          <Capital />        
         </div>
 
       </div> 
