@@ -12,8 +12,8 @@ export const Colors = {
     blue_gradient: '#00BCEE',
     blue: '#17A1FA',
     blue_25: '#02BEE3',
-    blue_50: '#7ADADD',
-    blue_75: '#0099FF',
+    blue_50: '#0058FF',
+    blue_75: '#0089FF',
     red_25: '#FC5555',
     yellow: '#F2C94C',
 };
